@@ -1,0 +1,4 @@
+Flask>=2.0.0              # the web framework
+reportlab>=3.5.0          # for PDF generation
+scikit-learn>=1.0.0       # for your trained health_model.pkl
+numpy>=1.20.0             # numerical arrays (used by scikit-learn)
